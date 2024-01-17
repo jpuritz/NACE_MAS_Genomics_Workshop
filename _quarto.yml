@@ -21,10 +21,10 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://MarineEvoEco.com
+        text: "Puritz Lab of Marine Evolutionary Ecology"
       - icon: github
-        href: https://github.com/nmfs-opensci
+        href: https://github.com/MarineEvoEcoLab
         text: "NMFS OpenSci"
 
     style: "docked"
