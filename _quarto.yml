@@ -15,7 +15,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://github.com/MarineEvoEcoLab/Lab_Resources/blob/master/LabLogo/PuritzMEE2.png"
+    logo: "https://raw.githubusercontent.com/MarineEvoEcoLab/Lab_Resources/master/LabLogo/PuritzMEE2.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
