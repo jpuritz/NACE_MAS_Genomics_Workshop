@@ -93,37 +93,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Eastern Oyster Genomics Workshop",
+    "title": "Oyster genomics for everyone: applications to conservation, management, and aquaculture",
     "section": "",
     "text": "Workshop held at the 2024 Northeast Aquaculture Conference & Exposition (NACE) and the 43rd Milford Aquaculture Seminar (MAS)\nRoom: Bristol/Kent"
   },
   {
-    "objectID": "index.html#oyster-genomics-for-everyone-applications-to-conservation-management-and-aquaculture",
-    "href": "index.html#oyster-genomics-for-everyone-applications-to-conservation-management-and-aquaculture",
-    "title": "Eastern Oyster Genomics Workshop",
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "Oyster genomics for everyone: applications to conservation, management, and aquaculture",
     "section": "",
     "text": "Workshop held at the 2024 Northeast Aquaculture Conference & Exposition (NACE) and the 43rd Milford Aquaculture Seminar (MAS)\nRoom: Bristol/Kent"
   },
   {
     "objectID": "index.html#description",
     "href": "index.html#description",
-    "title": "Eastern Oyster Genomics Workshop",
+    "title": "Oyster genomics for everyone: applications to conservation, management, and aquaculture",
     "section": "Description",
     "text": "Description\nDate: January 10, 2024 Time: 1:00 PM to 4:00 PM Location: Omni Providence Hotel (1 W Exchange St, Providence, RI 02903)\nCome learn about exciting new genomic tools for the eastern oyster that can be used to enhance aquaculture and management. The workshop will feature lightning talks highlighting findings and applications of genomic data in aquaculture, presentations on how to non-destructively sample oysters for DNA and the benefits of incorporating genomic data. The second half of the workshop will be hands-on instruction with genomic data from the eastern oyster breeding array."
   },
   {
     "objectID": "index.html#agenda",
     "href": "index.html#agenda",
-    "title": "Eastern Oyster Genomics Workshop",
+    "title": "Oyster genomics for everyone: applications to conservation, management, and aquaculture",
     "section": "Agenda",
     "text": "Agenda\n\nAgenda\n\n\n\n\n\n\n\n\nStart\nEnd\nEvent\nSpeaker\n\n\n\n\n13:00\n13:10\nWelcome and Introduction\nJon Puritz\n\n\n\n\nPart 1: What can genomic data answer?\n\n\n\n13:10\n13:18\nUnderstanding Oyster Population Connectivity and Adaptation in Narragansett Bay\nAmy Zyck\n\n\n13:20\n13:28\nGenomic and phenotypic variation in wild and selectively bred oysters\nAngel Carrasquillo\n\n\n13:30\n13:40\nDo farm oysters contribute to ecosystem services? Assessing interbreeding between aquaculture strains and native stocks\nYuqing Chen\n\n\n13:42\n13:50\nNo oysters were harmed in the making of this: how to non-destructively sample oyster DNA\nUSDA-ARS\n\n\n13:50\n14:05\nBreak\n\n\n\n\n\nPart 2: Hands-on workshop with the Eastern Oyster SNP Breeding Array\n\n\n\n14:05\n14:20\nFrom DNA to SNP and what is a SNP anyway?\nJon Puritz\n\n\n14:20\n14:40\nIntroduction to R\nJon Puritz\n\n\n14:40\n15:20\nCalculating Genetic Diversity\nJon Puritz\n\n\n15:20\n16:00\nPrincipal Component Analysis and Discrimininant Analysis\nJon Puritz"
   },
   {
-    "objectID": "index.html#registration-and-support",
-    "href": "index.html#registration-and-support",
-    "title": "Eastern Oyster Genomics Workshop",
-    "section": "Registration and Support",
-    "text": "Registration and Support\nRegister here: (https://www.northeastaquaculture.org/registration/) and sign up for the workshop here: (https://shellfish.wufoo.com/forms/nace-mas-24-workshopfield-trip-registration/) Support from RI Sea Grant is available to help cover registration costs and defer travel costs for those who are not already attending the conference. Please email Jon Puritz (jpuritz@uri.edu) with a short, one-page summary of funding needs. Amount of financial support will depend on the number of applicants and will be in the form of reimbursement."
+    "objectID": "index.html#support",
+    "href": "index.html#support",
+    "title": "Oyster genomics for everyone: applications to conservation, management, and aquaculture",
+    "section": "Support",
+    "text": "Support\n Support for the workshop and participants was provided by RI Sea Grant from award R/1822-2022-104-01 to J. Puritz."
   },
   {
     "objectID": "content/code.html",
