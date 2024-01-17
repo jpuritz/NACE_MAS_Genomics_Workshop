@@ -3,7 +3,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
+  title: "Oyster genomics for everyone: applications to conservation, management, and aquaculture" 
   site-url: "https://jpuritz.github.io/NACE_MAS_Genomics_Workshop/" 
   repo-url: "https://github.com/jpuritz/NACE_MAS_Genomics_Workshop"
   repo-actions: [edit, source, issue]

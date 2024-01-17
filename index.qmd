@@ -4,16 +4,16 @@ subtitle: "Workshop held at the 2024 Northeast Aquaculture Conference & Expositi
 page-layout: full
 ---
 
-## Location
+## Location and Date
 Workshop held at the 2024 Northeast Aquaculture Conference & Exposition (NACE) and the 43rd Milford Aquaculture Seminar (MAS)
 
-**Room:** Bristol/Kent
-
-## Description
 Date: January 10, 2024 
 Time: 1:00 PM to 4:00 PM
 Location: Omni Providence Hotel (1 W Exchange St, Providence, RI 02903)
 
+**Room:** Bristol/Kent
+
+## Description
 Come learn about exciting new genomic tools for the eastern oyster that can be used to enhance aquaculture and management.  The workshop will feature lightning talks highlighting findings and applications of genomic data in aquaculture, presentations on how to non-destructively sample oysters for DNA and the benefits of incorporating genomic data. The second half of the workshop will be hands-on instruction with genomic data from the eastern oyster breeding array.  
 
 ## Agenda
@@ -22,7 +22,7 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 |-|-|-----|-|
 | 13:00 | 13:10| Welcome and Introduction | Jon Puritz|
 | || Part 1: What can genomic data answer?||
-| 13:10 | 13:18| Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay| Amy Zyck |
+| 13:10 | 13:18| [Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay](Presentation_Slides/Zyck_NACE_GenomicsWorkshop_20240108.pdf)| Amy Zyck |
 | 13:20 | 13:28| Genomic and phenotypic variation in wild and selectively bred oysters | Angel Carrasquillo|
 | 13:30 | 13:40| Do farm oysters contribute to ecosystem services? Assessing interbreeding between aquaculture strains and native stocks| Yuqing Chen |
 | 13:42 | 13:50| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
@@ -33,9 +33,9 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 | 14:40 | 15:20| Calculating Genetic Diversity  | Jon Puritz |
 | 15:20 | 16:00| Principal Component Analysis and Discrimininant Analysis | Jon Puritz |
 
-: Agenda {.striped .hover}
+: {.striped .hover}
 
 
 ## Support
-![RI Sea GRANT](https://seagrant.gso.uri.edu/wp-content/uploads/2023/04/RISG_logo_navy-scaled.webp)
 Support for the workshop and participants was provided by [RI Sea Grant](https://seagrant.gso.uri.edu/) from award `R/1822-2022-104-01` to J. Puritz.  
+![RI Sea GRANT](https://seagrant.gso.uri.edu/wp-content/uploads/2023/04/RISG_logo_navy-scaled.webp)
