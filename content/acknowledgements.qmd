@@ -2,4 +2,5 @@
 title: Acknowledgments
 ---
 
+This website was made with the `quarto` [template](https://github.com/nmfs-opensci/NOAA-quarto-simple) from NOAA NMFS Open Science 
 This repo and GitHub Action was based on the tutorial by Openscapes [quarto-website-tutorial](https://github.com/Openscapes/quarto-website-tutorial) by Julia Lowndes and Stefanie Butland.
