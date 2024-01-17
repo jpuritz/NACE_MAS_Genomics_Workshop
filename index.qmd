@@ -19,7 +19,7 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 ## Agenda
 
 | Start | End|  Event | Speaker|
-|------|------|---|--------|
+|-|-|-----|-|
 | 13:00 | 13:10| Welcome and Introduction | Jon Puritz|
 | || Part 1: What can genomic data answer?||
 | 13:10 | 13:18| Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay| Amy Zyck |
@@ -32,6 +32,8 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 | 14:20 | 14:40| Introduction to R | Jon Puritz |
 | 14:40 | 15:20| Calculating Genetic Diversity  | Jon Puritz |
 | 15:20 | 16:00| Principal Component Analysis and Discrimininant Analysis | Jon Puritz |
+
+: Agenda {.striped .hover}
 
 
 ## Registration and Support
