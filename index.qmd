@@ -1,10 +1,10 @@
 ---
-title: "Eastern Oyster Genomics Workshop"
-subtitle: "Oyster genomics for everyone: applications to conservation, management, and aquaculture"
+title: "Oyster genomics for everyone: applications to conservation, management, and aquaculture"
+subtitle: "Workshop held at the 2024 Northeast Aquaculture Conference & Exposition (NACE) and the 43rd Milford Aquaculture Seminar (MAS)"
 page-layout: full
 ---
 
-## Oyster genomics for everyone: applications to conservation, management, and aquaculture
+## Location
 Workshop held at the 2024 Northeast Aquaculture Conference & Exposition (NACE) and the 43rd Milford Aquaculture Seminar (MAS)
 
 **Room:** Bristol/Kent
@@ -36,5 +36,6 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 : Agenda {.striped .hover}
 
 
-## Registration and Support
-Register here: (https://www.northeastaquaculture.org/registration/) and sign up for the workshop here: (https://shellfish.wufoo.com/forms/nace-mas-24-workshopfield-trip-registration/) Support from RI Sea Grant is available to help cover registration costs and defer travel costs for those who are not already attending the conference.  Please email Jon Puritz (jpuritz@uri.edu) with a short, one-page summary of funding needs.  Amount of financial support will depend on the number of applicants and will be in the form of reimbursement. 
+## Support
+![RI Sea GRANT](https://seagrant.gso.uri.edu/wp-content/uploads/2023/04/RISG_logo_navy-scaled.webp)
+Support for the workshop and participants was provided by [RI Sea Grant](https://seagrant.gso.uri.edu/) from award `R/1822-2022-104-01` to J. Puritz.  
